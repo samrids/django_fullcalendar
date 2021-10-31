@@ -1,0 +1,1 @@
+Django work with fullcalendar
